@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Shuo
+
+- Currently studying in Beijing Forestry University
+- Currently learning C/C++ and Rust
+- Want to be an Engineer
+- Used to have a dream but now changed
+- Little knowledge about coding but keep Learning
+
 
 <!--
 **eletronicos/eletronicos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
