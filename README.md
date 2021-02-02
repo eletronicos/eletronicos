@@ -1,7 +1,7 @@
 ### Hi there, I'm Shuo
 
 - Currently studying in Beijing Forestry University
-- Currently learning C/C++ and Rust
+- Now learning C/C++ and Rust
 - Want to be an Engineer
 - Used to have a dream but now changed
 - Little knowledge about coding but keep Learning
