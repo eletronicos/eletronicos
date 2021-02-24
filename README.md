@@ -6,7 +6,7 @@
 - Used to have a dream but now changed
 - Little knowledge about coding but keep Learning
 
-![Shuo's github stats](https://github-readme-stats.vercel.app/api?username=eletronicos)
+<img align="right" https://github-readme-stats.vercel.app/api?username=eletronicos/>
 
 
 <!--
