@@ -1,3 +1,5 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=eletronicos" />
+
 ### Hi there, I'm Shuo
 
 - Currently studying in Beijing Forestry University
@@ -6,7 +8,6 @@
 - Used to have a dream but now changed
 - Little knowledge about coding but keep Learning
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=eletronicos" />
 
 
 <!--
